@@ -1,0 +1,101 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "4c7827dc-4794-44b0-870d-b8e82f225e69")
+	(paper "A4")
+	(title_block
+		(title "Pump It Up EQ Control PCB for LX Cabinet")
+		(date "2026-05-21")
+		(rev "1.0")
+		(comment 1 "Andamiro Factory Part Number: APLX0PCB001")
+	)
+	(lib_symbols)
+	(text "CLICK HERE"
+		(exclude_from_sim no)
+		(at 45.72 19.304 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 13 1)
+			)
+			(href "https://www.gme.cz/v/1498388/kls-mlw10g-konektor-vidlice-roztec-254mm-2x5pinu-prima-do-dps")
+		)
+		(uuid "1d1bf323-1c7e-49d1-af56-e614fd10156b")
+	)
+	(text "In case you actually need to make this:\nATMEGA328P HAS DIFFERENT PINOUT IN DIP AND TQFP PACKAGE!!!!"
+		(exclude_from_sim no)
+		(at 13.208 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3d5ea8f4-5497-4c19-aa8e-5eb0e0d42955")
+	)
+	(text "LIST OF CONNECTORS:\n\nISP: 10 pin IDC connector\n\nThe big connectors:\nMolex, series number 35313; in 3 and 5 pin variant.\n(Note that this series seems to about to be discontinued,\nMolex doesn't list the 5 pin variant on their website, however Mouser has few left)\n\nThe small connectors:\nMolex, series number 35312; in 5, 6 and 7 pin variant.\n(Note that this series seems to be discontinued)\n\nPower connectors:\nMini-fit 1x2\nMini-fit 2x2\n(I Can't seem to find like a proper name for them. But I linked the ones I bought\nthat fit)"
+		(exclude_from_sim no)
+		(at 13.208 32.258 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bb4a211d-2d8e-4909-b7be-a75c247c8963")
+	)
+	(text "MOLEX WEBSITE"
+		(exclude_from_sim no)
+		(at 79.756 26.416 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 0 1)
+			)
+			(href "https://www.molex.com/en-us/products/part-detail/353130460")
+		)
+		(uuid "bc961273-15c6-40ef-98d2-a7ff7d646021")
+	)
+	(text "MOLEX WEBSITE"
+		(exclude_from_sim no)
+		(at 71.628 37.846 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 0 1)
+			)
+			(href "https://www.molex.com/en-us/products/part-detail/353120560")
+		)
+		(uuid "bcb06b3b-dd9c-45c8-8827-02e4bddace81")
+	)
+	(text "CLICK HERE"
+		(exclude_from_sim no)
+		(at 31.496 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 0 1)
+			)
+			(href "https://www.gme.cz/v/1500163/a4201-wv02x2-mini-fit-vidlice-roztec-42mm-2x2piny-prima-do-dps")
+		)
+		(uuid "c7fc3b78-25b7-43be-8fce-3d235c589fb3")
+	)
+	(text "CLICK HERE"
+		(exclude_from_sim no)
+		(at 31.496 43.688 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 0 1)
+			)
+			(href "https://www.gme.cz/v/1500162/a4201-wv02x1-mini-fit-vidlice-roztec-42mm-1x2piny-prima-do-dps")
+		)
+		(uuid "f26ecf75-a82f-47ff-9b07-ed620d6b90cd")
+	)
+	(sheet_instances
+		(path "/"
+			(page "2")
+		)
+	)
+)
