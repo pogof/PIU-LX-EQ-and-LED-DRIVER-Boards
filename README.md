@@ -16,7 +16,7 @@ damage, wipe or owerwrite your working boards!!!
 
 If you are missing a board or want to make more continue reading.
 
-WHAT IS THIS?
+## WHAT IS THIS?
 
 In this archive you will find two KiCad 10 projects + all footprint
 and symbol libraries. One project has the main EQ board and the other
@@ -35,7 +35,12 @@ and some other components. Basically if you want to make it,
 make sure you change the footprints on the board to
 what is actually available.
 
-PLEASE NOTE THAT YOU WILL NEED AT LEAST ONE OF THE ORIGINAL BOARDS
+**PLEASE NOTE THAT YOU WILL NEED AT LEAST ONE OF THE ORIGINAL BOARDS
 AND AT LEAST AN ARDUINO TO GET THE CODE OFF OF THE ORIGINAL BOARD.
 I do not and will not share so i don't get in troubles.
-This archive was made just for preservation purposes.
+This archive was made just for preservation purposes.**
+
+
+# Other then the 2pin and 4pin power connectors, the footprint connectors are correct.
+
+For the mini-fit: The footprint I have selected and the actual component I bought are slightly different, where the footprint is slightly rectangular, but the actual component I bought is square. I am not sure if there is different SKUs that differ or if it is straight up different connectors. Will update when I investigate some more.
